@@ -6,5 +6,6 @@
 </head>
 <body>
 <div> This is index page </div>
+<a href="/libros">Libros</a>
 </body>
 </html>
